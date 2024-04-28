@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+    text-transform: capitalize;
+    height: 100px;
+    width: 100px;
+    background-color: tomato
+}
+#traffic1{
+    height: 100px;
+    background-color: rgb(244, 5, 5);
+    width: 100px;
+    border: 5px solid black;
+    border-radius:50%;
+    padding: 25px 25px 25px 25px; ;
+    margin: 10px 10px 10px 20px;
+}
+#traffic2{
+    height: 100px;
+    background-color: rgb(53, 244, 5);
+    width: 100px;
+    border: 5px solid black;
+    border-radius:50%;
+    padding: 25px 25px 25px 25px; ;
+    margin: 10px 10px 10px 20px;
+}
+#traffic3{
+    height: 100px;
+    background-color: rgb(244, 232, 5);
+    width: 100px;
+    border: 5px solid black;
+    border-radius:50%;
+    padding: 25px 25px 25px 25px; ;
+    margin: 10px 10px 10px 20px;
+}
+.signal{
+    border: 20px solid black;
+    width: 200px;
+}
